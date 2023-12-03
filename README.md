@@ -12,7 +12,7 @@ Our target audience consists of individuals seeking a unified platform to access
 ### Apple Fitness
 [List of features](https://support.apple.com/guide/iphone/get-started-with-fitness-ipha5dddb411/ios)
 + Activity
-  + Move (Active calories burned / Daily active calories burn goal)
+  + Move (Active calories burned / Daily active calorie burn goal)
   + Time Spent exercising
   + Stand data and goal
   + Displays Steps Taken per day
